@@ -14,5 +14,4 @@ Following Topics are covered:
 8. Python Standard Library
 9. Python Object Oriented Programming
 10. PyGame (with Snakes Game)
-11. Few Python Exercises
-12. Mini Projects (NewsReader, LibraryManagementSystem and more)
+11. Few Python Exercises/Mini Projects
