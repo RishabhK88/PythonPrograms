@@ -1,5 +1,6 @@
 # PythonPrograms
-A list of python programs with well documented code from beginners to intermediate.
+A list of python programs with well documented code from beginner to intermediate level.
+(Follows the CodeWithMosh PythonForBeginners Course and the Python playlist of CodeWithHarry on Youtube)
 
 Following Topics are covered:
 1. Primitive Types
